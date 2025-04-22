@@ -11,4 +11,20 @@ This repository contains a Python script that:
 ---
 
 ## Repository Structure
+. ├── offline_activity_module_II.py # main script ├── requirements.txt # Python dependencies ├── LICENSE # (optional) license file └── README.md # this file
 
+---
+
+## Prerequisites
+
+- Python 3.12+  
+- Internet connection (to reach ChEMBL & UniProt REST APIs)
+
+---
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/module-ii-offline-activity.git
+   cd module-ii-offline-activity
