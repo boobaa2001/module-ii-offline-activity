@@ -6,12 +6,12 @@ This repository contains a Python script that:
 2. **Filters** for those first approved in 2019 or later  
 3. **Retrieves** UniProt accessions for each drug’s single‑protein targets  
 4. **Downloads** UniProt keywords for each accession  
-5. **Outputs** the combined data into a TSV file
+5. **Outputs** the data into three JSON file
 
 ---
 
 ## Repository Structure
-. ├── offline_activity_module_II.py # main script ├── requirements.txt # Python dependencies ├── LICENSE # (optional) license file └── README.md # this file
+. ├── offline_activity_module_II.py # main script ├── requirements.txt # Python dependencies ├── step1.JSON,step2.JSON,step3.JSON # output └── README.md # this file
 
 ---
 
